@@ -1,8 +1,9 @@
 import React from 'react';
+import './Navbar.css';
 
 function Navbar() {
   return (
-    <div>Leggo head</div>
+    <div className="leggo">Leggo head</div>
   );
 }
 
